@@ -1,0 +1,209 @@
+{
+  "logo": {
+    "id": 1,
+    "logo": "./public/images/menu/logo.svg",
+    "dropDownPlay": [
+      {
+        "id": 1,
+        "imageSVG": "./public/images/menu/fortnite.svg",
+        "des": "fortnite"
+      },
+      {
+        "id": 2,
+        "imageSVG": "./public/images/menu/rocketLeague.svg",
+        "des": "rocket league"
+      },
+      {
+        "id": 3,
+        "imageSVG": "./public/images/menu/fallGuys.svg",
+        "des": "fall guys"
+      }
+    ],
+    "dropDownDiscover": [
+      {
+        "id": 1,
+        "imageSVG": "./public/images/menu/epic.svg",
+        "des": "epic games store"
+      },
+      {
+        "id": 2,
+        "imageSVG": "./public/images/menu/fab.svg",
+        "des": "fab"
+      },
+      {
+        "id": 3,
+        "imageSVG": "./public/images/menu/sketchFab.svg",
+        "des": "sketchfab"
+      },
+      {
+        "id": 4,
+        "imageSVG": "./public/images/menu/artStation.svg",
+        "des": "ArtStation"
+      }
+    ],
+    "dropDownCreate": [
+      {
+        "id": 1,
+        "imageSVG": "./public/images/menu/unrealEngine.svg",
+        "des": "unreal engine"
+      },
+      {
+        "id": 2,
+        "imageSVG": "./public/images/menu/fortnite.svg",
+        "des": "create in fortnite"
+      },
+      {
+        "id": 3,
+        "imageSVG": "./public/images/menu/metaHuman.svg",
+        "des": "metaHuman"
+      },
+      {
+        "id": 4,
+        "imageSVG": "./public/images/menu/twinMotion.svg",
+        "des": "twinMotion"
+      },
+      {
+        "id": 5,
+        "imageSVG": "./public/images/menu/realityScan.svg",
+        "des": "realityScan"
+      },
+      {
+        "id": 6,
+        "imageSVG": "./public/images/menu/realityCapture.svg",
+        "des": "realityCapture"
+      },
+      {
+        "id": 7,
+        "imageSVG": "./public/images/menu/epic.svg",
+        "des": "Epic Online Services"
+      },
+      {
+        "id": 8,
+        "imageSVG": "./public/images/menu/epic.svg",
+        "des": "Publish on Epic Games Store"
+      },
+      {
+        "id": 9,
+        "imageSVG": "./public/images/menu/kidsWeb.svg",
+        "des": "Kids Web Services"
+      },
+      {
+        "id": 10,
+        "imageSVG": "./public/images/menu/epic.svg",
+        "des": "Developer Community"
+      }
+    ]
+  },
+  "storeBtn": {
+    "id": 1,
+    "store": "./public/images/menu/store.svg"
+  },
+  "navMenu": [
+    {
+      "id": 1,
+      "tittle": "Distribution"
+    },
+    {
+      "id": 2,
+      "tittle": "Support"
+    },
+    {
+      "id": 3,
+      "tittle": "Unreal Engine"
+    }
+  ],
+  "sunMenuNav": [
+    {
+      "id": 1,
+      "tittle": "discover"
+    },
+    {
+      "id": 2,
+      "tittle": "browse"
+    },
+    {
+      "id": 3,
+      "tittle": "news"
+    }
+  ],
+  "heroSlider": [
+    {
+      "id": 1,
+      "paginationTitle": "Nightingale",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-1.avif",
+      "imageXXL": "./public/images/heroSlider/xxl/image-1.png",
+      "logoImage": "./public/images/heroSlider/xxl/logos/image-1.png",
+      "title": "out now",
+      "description": "A shared-world survival crafting game set in the beautiful and dangerous Fae Realms.",
+      "price": "Starting at $29.99",
+      "discount": "",
+      "button": "buy now",
+      "addToWishList": "add to wish list"
+    },
+    {
+      "id": 2,
+      "paginationTitle": "Expeditions: A MudRunner Game",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-2.avif",
+      "imageXXL": "./public/images/heroSlider/xxl/image-2.png",
+      "logoImage": "./public/images/heroSlider/xxl/logos/image-2.png",
+      "title": "Coming March 5",
+      "description": "Embark on scientific expeditions with this new off-road adventure from the creators of MudRunner and SnowRunner.",
+      "price": "Starting at $39.99",
+      "discount": "",
+      "button": "pre-purchase now",
+      "addToWishList": "add to wish list"
+    },
+    {
+      "id": 3,
+      "paginationTitle": "Find it in Fortnite",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-3.webp",
+      "imageXXL": "./public/images/heroSlider/xxl/image-3.png",
+      "logoImage": "",
+      "title": "Check It Out",
+      "description": "A new way to discover what's happening in Fortnite.",
+      "price": "",
+      "discount": "",
+      "button": "discover",
+      "addToWishList": ""
+    },
+    {
+      "id": 4,
+      "paginationTitle": "Skull & Bones",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-4.avif",
+      "imageXXL": "./public/images/heroSlider/xxl/image-4.png",
+      "logoImage": "./public/images/heroSlider/xxl/logos/image-4.png",
+      "title": "Season 1",
+      "description": "Discover brand new free Season 1 content including world events, various activities and a fearsome Pirate Lord.",
+      "price": "Starting at $59.99",
+      "discount": "",
+      "button": "buy now",
+      "addToWishList": "add to wish list"
+    },
+    {
+      "id": 5,
+      "paginationTitle": "Honkai Impact 3rd",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-5.avif",
+      "imageXXL": "./public/images/heroSlider/xxl/image-5.png",
+      "logoImage": "./public/images/heroSlider/xxl/logos/image-5.png",
+      "title": "Update 7.3 Part 2 Released",
+      "description": "New modes are available. Log in to get 20 Supply Cards, and S-rank Battlesuit Option!",
+      "price": "",
+      "discount": "",
+      "button": "play for free",
+      "addToWishList": ""
+    },
+    {
+      "id": 6,
+      "paginationTitle": "RAWMEN: Food Fighter Arena",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-6.avif",
+      "imageXXL": "./public/images/heroSlider/xxl/image-6.png",
+      "logoImage": "./public/images/heroSlider/xxl/logos/image-6.png",
+      "title": "EGS Exclusive",
+      "description": "RAWMEN will be an EGS PC exclusive when indie studio Animal launches their zany shooter.",
+      "price": "",
+      "discount": "",
+      "button": "read more",
+      "addToWishList": "add to wish list"
+    }
+  ]
+}
