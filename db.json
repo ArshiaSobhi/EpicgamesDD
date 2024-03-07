@@ -129,15 +129,15 @@
   "heroSlider": [
     {
       "id": 1,
-      "paginationTitle": "Nightingale",
-      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-1.avif",
+      "paginationTitle": "Frostpunk 2",
+      "paginationImage": "./public/images/heroSlider/xxl/pagination/image-1.png",
       "imageXXL": "./public/images/heroSlider/xxl/image-1.png",
       "logoImage": "./public/images/heroSlider/xxl/logos/image-1.png",
-      "title": "out now",
-      "description": "A shared-world survival crafting game set in the beautiful and dangerous Fae Realms.",
-      "price": "Starting at $29.99",
+      "title": "Coming July 25",
+      "description": "Discover a city-survival game set 30 years after an apocalyptic blizzard ravaged Earth.",
+      "price": "",
       "discount": "",
-      "button": "buy now",
+      "button": "wishlist now",
       "addToWishList": "add to wish list"
     },
     {
