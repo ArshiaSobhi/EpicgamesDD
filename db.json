@@ -296,6 +296,35 @@
       }
     ]
   },
+  "footer": {
+    "socials": [
+      { "id": 1, "name": "faceBook", "svg": "<i class='fa-brands fa-facebook social'></i>" },
+      { "id": 2, "name": "twitter", "svg": "<i class='fa-brands fa-twitter social'></i>" },
+      { "id": 3, "name": "youTube", "svg": "<i class='fa-brands fa-youtube social'></i>" }
+    ],
+    "resources": [
+      { "id": 1, "name": "Support-A-Creator" },
+      { "id": 2, "name": "Fan Art Policy" },
+      { "id": 3, "name": "Online Services" },
+      { "id": 4, "name": "Distribute on Epic Games" },
+      { "id": 5, "name": "UX Research" },
+      { "id": 6, "name": "Community Rules" },
+      { "id": 7, "name": "Careers" },
+      { "id": 8, "name": "Store EULA" },
+      { "id": 9, "name": "Epic Newsroom" },
+      { "id": 10, "name": "Company" }
+    ],
+    "madeBy": [
+      { "id": 1, "name": "Battle Breakers" },
+      { "id": 2, "name": "Robo Recall" },
+      { "id": 3, "name": "Fortnite" },
+      { "id": 4, "name": "Shadow Complex" },
+      { "id": 5, "name": "Infinity Blade" },
+      { "id": 6, "name": "Unreal Tournament" }
+    ],
+    "description": { "id": 1, "des": "© 2024, Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Fortnite, the Fortnite logo, Unreal, Unreal Engine, the Unreal Engine logo, Unreal Tournament, and the Unreal Tournament logo are trademarks or registered trademarks of Epic Games, Inc. in the United States of America and elsewhere. Other brands or product names are the trademarks of their respective owners. <br/> Our websites may contain links to other sites and resources provided by third parties. These links are provided for your convenience only. Epic Games has no control over the contents of those sites or resources, and accepts no responsibility for them or for any loss or damage that may arise from your use of them." }
+  },
+
   "products": [
     {
       "id": 1,
